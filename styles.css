@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Grosvernor;
+    src: url(assets/fonts/Grosvenor/Grosvenor.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+h1 {
+    font-family: Grosvernor;
+}
