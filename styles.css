@@ -16,4 +16,8 @@ body {
 
 h1 {
     font-family: Grosvernor;
+    color: white;
+    display: flex;
+    margin: auto;
+    padding: auto;
 }
