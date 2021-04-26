@@ -122,6 +122,7 @@ section{
   justify-content: center;
   flex-direction: column;
   height: 600px;
+  z-index: -1;
 }
 
 img {
